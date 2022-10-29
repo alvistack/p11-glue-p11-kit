@@ -1,0 +1,4 @@
+p11-kit source: file-without-copyright-information
+p11-kit source: no-debian-changes
+p11-kit source: not-binnmuable-any-depends-any
+p11-kit source: weak-library-dev-dependency

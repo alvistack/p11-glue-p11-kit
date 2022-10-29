@@ -127,3 +127,4 @@ frob-*
 /trust/test-init.sh
 
 /p11-kit-?.?
+/build
